@@ -1,5 +1,4 @@
 # React_Community
-- 주소 : hosting중
 
 ## 프로젝트명 : React_Community
 - 개요 : 인스타그램 같은 SNS느낌의 커뮤니티 웹앱을 구현해본 프로젝트
